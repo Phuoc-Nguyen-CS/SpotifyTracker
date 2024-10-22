@@ -1,327 +1,760 @@
 date,song,artist,count,listen_time_minutes
+2024-10-17,Love,Keyshia Cole,1,4.2
+2024-10-17,May I Ask,Luke Chiang,1,3.75
+2024-10-17,Infatuated,Rangga Jones,1,3.73
+2024-10-17,Strawberry Blossom,RINI,1,3.64
+2024-10-17,For No Reason,YAØ,1,3.18
+2024-10-17,Slowly,CLAUDIA,1,3.05
+2024-10-17,i need you more (feat. Suyo),Sweet The Kid,1,3.05
+2024-10-17,Settle 4 Less,CLAUDIA,1,2.52
+2024-10-17,camellia,slchld,1,2.45
+2024-10-17,LAST GOODBYE,sunkis,1,2.4
+2024-10-17,madly,Emily Vaughn,1,1.59
+2024-10-16,ANGOSTURA,keshi,4,11.02
+2024-10-16,Soft Spot,keshi,3,9.87
+2024-10-16,Strawberry Blossom,RINI,2,7.15
+2024-10-16,HITMYLINE,Concepcion,2,6.52
+2024-10-16,Out of the Blue,RINI,2,6.24
+2024-10-16,Top Tier,sunkis,2,5.55
+2024-10-16,Like I Do (with sunkis),J.Tajor,2,4.74
+2024-10-16,You Broke Me First,Conor Maynard,2,4.42
+2024-10-16,i loved you,Beauty School Dropout,2,3.5
+2024-10-16,trust me,sunkis,2,3.01
+2024-10-16,keep smiling,demxntia,2,0.93
+2024-10-16,next door (feat. ASTN),Amelia Moore,2,0.73
+2024-10-16,Slowly,CLAUDIA,2,0.71
+2024-10-16,Versace on the Floor,Bruno Mars,2,0.21
+2024-10-16,blue salvia,PRYVT,2,0.14
+2024-10-16,better for you,siopaolo,1,4.75
+2024-10-16,Dried Flowers(English ver.),Yuuri,1,4.67
+2024-10-16,i know you know,CHSKA,1,4.28
+2024-10-16,24K Magic,Bruno Mars,1,3.76
+2024-10-16,if it's not you,PRYVT,1,3.72
+2024-10-16,Temporary Love,sunkis,1,3.27
+2024-10-16,Heartbreak Anniversary,Giveon,1,3.22
+2024-10-16,I Think They Call This Love,Elliot James Reay,1,3.17
+2024-10-16,For No Reason,YAØ,1,3.14
+2024-10-16,i need you more (feat. Suyo),Sweet The Kid,1,3.07
+2024-10-16,Hopelessly Devoted To You - Spotify Single,Alex Porat,1,2.93
+2024-10-16,Night,keshi,1,2.91
+2024-10-16,3 new words,lullaboy,1,2.86
+2024-10-16,Come Play (from the series Arcane League of Legends),Stray Kids,1,2.57
+2024-10-16,the cutest pair,Regina Song,1,2.56
+2024-10-16,Senses,MICO,1,2.54
+2024-10-16,Moonlit Floor,LISA,1,2.52
+2024-10-16,VOICEMAIL,sunkis,1,2.36
+2024-10-16,All For You,sunkis,1,2.32
+2024-10-16,Last Minute,Sam MacPherson,1,2.19
+2024-10-16,love me from a distance,Emily Vaughn,1,1.88
+2024-10-16,us,keshi,1,1.32
+2024-10-16,Requiem,keshi,1,0.26
+2024-10-16,Congratulations - English Ver.,DAY6,1,0.18
+2024-10-16,mad,eaJ,1,0.08
+2024-10-16,"I can't go home, anymore",PRYVT,1,0.07
+2024-10-16,HOPELESS,raph,1,0.01
+2024-10-16,LEFT OF ME,Johnny Huynh,1,0.01
+2024-10-16,Love,Keyshia Cole,1,0.01
+2024-10-16,Without Me,Halsey,1,0.01
+2024-10-15,glide,Sweet The Kid,10,18.99
+2024-10-15,Out of the Blue,RINI,6,19.4
+2024-10-15,I Think They Call This Love,Elliot James Reay,5,16.0
+2024-10-15,VOICEMAIL,sunkis,5,3.95
+2024-10-15,daisy.,wave to earth,4,14.05
+2024-10-15,ONLY,LeeHi,3,11.81
+2024-10-15,For No Reason,YAØ,3,9.43
+2024-10-15,i need you more (feat. Suyo),Sweet The Kid,3,8.96
+2024-10-15,Top Tier,sunkis,3,8.21
+2024-10-15,trust me,sunkis,3,8.13
+2024-10-15,MIDDLE OF THE NIGHT,MONSTA X,3,8.07
+2024-10-15,ANGOSTURA,keshi,3,7.36
+2024-10-15,Love,Keyshia Cole,3,0.04
+2024-10-15,Tip Toe,HYBS,2,7.35
+2024-10-15,Strawberry Blossom,RINI,2,7.24
+2024-10-15,next door (feat. ASTN),Amelia Moore,2,6.86
+2024-10-15,take it slow,yedira,2,6.73
+2024-10-15,Soft Spot,keshi,2,6.6
+2024-10-15,HITMYLINE,Concepcion,2,6.54
+2024-10-15,10 Freaky Girls (with 21 Savage),Metro Boomin,2,6.41
+2024-10-15,Understand,MELOH,2,5.16
+2024-10-15,the cutest pair,Regina Song,2,5.13
+2024-10-15,keep smiling,demxntia,2,4.31
+2024-10-15,Astronaut In The Ocean,Masked Wolf,2,4.17
+2024-10-15,ball w/o you,21 Savage,2,2.31
+2024-10-15,Versace on the Floor,Bruno Mars,2,0.01
+2024-10-15,i know you know,CHSKA,1,4.28
+2024-10-15,Worlds Away,Dabin,1,4.11
+2024-10-15,Crawl Outta Love,ILLENIUM,1,4.01
+2024-10-15,Miracle,RINI,1,3.86
+2024-10-15,Hold On (with Georgia Ku),ILLENIUM,1,3.85
+2024-10-15,Crashing (feat. Bahari),ILLENIUM,1,3.81
+2024-10-15,After You (feat. Calle Lehmann),Gryffin,1,3.73
+2024-10-15,Nightlight,ILLENIUM,1,3.69
+2024-10-15,Ready,Dabin,1,3.66
+2024-10-15,if it's not you,PRYVT,1,3.65
+2024-10-15,Save Me (From Myself) (feat. Kyle Hume),NURKO,1,3.6
+2024-10-15,Fall To My Grave,SVRRIC,1,3.58
+2024-10-15,Sad Songs (with Said The Sky & Annika Wells),ILLENIUM,1,3.5
+2024-10-15,Bye Bye (feat. Ivy Adara),Gryffin,1,3.49
+2024-10-15,Nevada,Vicetone,1,3.45
+2024-10-15,Sleepless Nights (feat. Nightly),ayokay,1,3.3
+2024-10-15,Last First Kiss,One Direction,1,3.29
+2024-10-15,CRUSH (with ASTN & Bren Joy),sunkis,1,3.25
+2024-10-15,Love Ain't Changin,GhostDragon,1,3.21
+2024-10-15,Worth It,William Black,1,3.21
+2024-10-15,Id,keshi,1,3.2
+2024-10-15,blue salvia,PRYVT,1,3.2
+2024-10-15,Body Back (feat. Maia Wright),Gryffin,1,3.12
+2024-10-15,Pure Water (with Migos),Mustard,1,3.06
+2024-10-15,LALALALA (Rock Ver.),Stray Kids,1,3.05
+2024-10-15,obsessed,thủy,1,3.0
+2024-10-15,Night,keshi,1,2.94
+2024-10-15,Say,keshi,1,2.92
+2024-10-15,With All My Heart,ILLENIUM,1,2.92
+2024-10-15,NVMD,Denise Julia,1,2.9
+2024-10-15,Don't Leave,Tom Frane,1,2.89
+2024-10-15,castle in the sky,eaJ,1,2.85
+2024-10-15,IT'S YOU (feat. keshi),MAX,1,2.8
+2024-10-15,3 new words,lullaboy,1,2.79
+2024-10-15,bad together,CLAUDIA,1,2.79
+2024-10-15,Seven (feat. Latto) (Explicit Ver.),Jung Kook,1,2.77
+2024-10-15,Ni**as In Paris,JAY-Z,1,2.74
+2024-10-15,cherry red,HNATA,1,2.74
+2024-10-15,up to me,LANY,1,2.73
+2024-10-15,Hopelessly Devoted To You - Spotify Single,Alex Porat,1,2.7
+2024-10-15,Hopelessly Devoted To You,YAØ,1,2.64
+2024-10-15,Senses,MICO,1,2.61
+2024-10-15,Eyes Wide Shut,ILLENIUM,1,2.53
+2024-10-15,GET IT,keshi,1,2.51
+2024-10-15,"darling, he lied",bixby,1,2.5
+2024-10-15,Don't Wanna Be Your Friend (feat. Katie Pearlman),ayokay,1,2.48
+2024-10-15,desire,bixby,1,2.43
+2024-10-15,I Like It,Stray Kids,1,2.38
+2024-10-15,Like I Do,J.Tajor,1,2.38
+2024-10-15,Like I Do (with sunkis),J.Tajor,1,2.37
+2024-10-15,Space Cadet (feat. Gunna),Metro Boomin,1,2.17
+2024-10-15,You Broke Me First,Conor Maynard,1,2.17
+2024-10-15,ZEZE (feat. Travis Scott & Offset),Kodak Black,1,2.12
+2024-10-15,summer,raph,1,2.1
+2024-10-15,Be So Cruel,ASTN,1,2.09
+2024-10-15,SET YOURSELF ON FIRE,Ruel,1,2.04
+2024-10-15,LAST GOODBYE,sunkis,1,1.95
+2024-10-15,kiss me thru the phone,CLUB BOYBND,1,1.91
+2024-10-15,cruel,starfall,1,1.9
+2024-10-15,here,Emily Vaughn,1,1.88
+2024-10-15,hero,starfall,1,1.87
+2024-10-15,distance,bixby,1,1.83
+2024-10-15,LALALALA,Stray Kids,1,1.61
+2024-10-15,In Every Disaster,sunkis,1,1.53
+2024-10-15,You & Me,JENNIE,1,1.51
+2024-10-15,"One Of The Girls (with JENNIE, Lily Rose Depp)",The Weeknd,1,1.26
+2024-10-15,Kiss Me Right,keshi,1,1.25
+2024-10-15,Hopelessly Devoted to You - Remastered,Frank Chacksfield,1,1.04
+2024-10-15,Cry,Gryffin,1,1.02
+2024-10-15,Hopelessly Devoted To You,Reinaeiry,1,0.99
+2024-10-15,dna,LANY,1,0.93
+2024-10-15,Mask Off,Future,1,0.88
+2024-10-15,85%,Loote,1,0.34
+2024-10-15,Like Strangers Do,AJ Mitchell,1,0.28
+2024-10-15,when the rain stops,eaJ,1,0.27
+2024-10-15,Hopelessly Devoted To You,Olivia Newton-John,1,0.24
+2024-10-15,Requiem,keshi,1,0.14
+2024-10-15,Home,niko rain,1,0.11
+2024-10-15,Stay A While,niko rain,1,0.11
+2024-10-15,alright,raph,1,0.09
+2024-10-15,Pasadena,BABY GRAVY,1,0.08
+2024-10-15,Hopelessly Devoted to You (Cover),Ally K,1,0.04
+2024-10-15,hopelessly devoted to you,Ni/Co's Covers,1,0.03
+2024-10-15,Despicable G's,BABY GRAVY,1,0.02
+2024-10-15,"Bitch, Don’t Kill My Vibe",Kendrick Lamar,1,0.01
+2024-10-15,a lot,21 Savage,1,0.01
+2024-10-15,ificouldbelikeu,raph,1,0.0
+2024-10-14,Out of the Blue,RINI,2,5.7
+2024-10-14,Little by Little,Tritonal,1,5.58
+2024-10-14,Monsters,Midnight Kids,1,3.9
+2024-10-14,feel U luv Me,Knock2,1,3.86
+2024-10-14,Glimpse of Us,Joji,1,3.83
+2024-10-14,Hurts Sometimes (with Jonathan Mendelsohn),SLANDER,1,3.71
+2024-10-14,Forgot About Us,Keenan Te,1,3.52
+2024-10-14,War,keshi,1,3.44
+2024-10-14,Too Good To Be True,MVSE,1,3.36
+2024-10-14,Hard To Say Goodbye (feat. Chloe Angelides),Ekali,1,3.27
+2024-10-14,Take Me,William Black,1,3.13
+2024-10-14,Good Parts,Justin Caruso,1,2.99
+2024-10-14,castle in the sky,eaJ,1,2.93
+2024-10-14,Temporary Love,Keenan Te,1,2.7
+2024-10-14,You Broke Me First,Conor Maynard,1,2.66
+2024-10-14,keep smiling,demxntia,1,2.07
+2024-10-14,Better Apart (feat. Dresage),Jai Wolf,1,1.59
+2024-10-14,You Don't Know,Justin Park,1,1.07
+2024-10-14,alright,raph,1,0.76
+2024-10-14,drivers license,Olivia Rodrigo,1,0.61
+2024-10-14,love me from a distance,Emily Vaughn,1,0.06
+2024-10-13,Die With A Smile,Lady Gaga,3,12.32
+2024-10-13,ONLY,LeeHi,3,2.63
+2024-10-13,War,keshi,2,6.76
+2024-10-13,HITMYLINE,Concepcion,2,6.53
+2024-10-13,Frozen,Within Temptation,1,4.38
+2024-10-13,i know you know,CHSKA,1,4.34
+2024-10-13,Versace on the Floor,Bruno Mars,1,4.29
+2024-10-13,Love,Keyshia Cole,1,4.22
+2024-10-13,Starbright,Dabin,1,3.95
+2024-10-13,Miracle,RINI,1,3.84
+2024-10-13,Shape of My Heart,Backstreet Boys,1,3.77
+2024-10-13,if it's not you,PRYVT,1,3.74
+2024-10-13,Tip Toe,HYBS,1,3.72
+2024-10-13,24K Magic,Bruno Mars,1,3.67
+2024-10-13,Strawberry Blossom,RINI,1,3.62
+2024-10-13,Erase You,Excision,1,3.61
+2024-10-13,Calico,DPR IAN,1,3.59
+2024-10-13,daisy.,wave to earth,1,3.56
+2024-10-13,Dream,keshi,1,3.5
+2024-10-13,next door (feat. ASTN),Amelia Moore,1,3.44
+2024-10-13,take it slow,yedira,1,3.39
+2024-10-13,Last First Kiss,One Direction,1,3.36
+2024-10-13,Soft Spot,keshi,1,3.35
+2024-10-13,10 Freaky Girls (with 21 Savage),Metro Boomin,1,3.34
+2024-10-13,LIMBO,keshi,1,3.32
+2024-10-13,Silverado For Sale,Morgan Wallen,1,3.32
+2024-10-13,Out of the Blue,RINI,1,3.28
+2024-10-13,blue salvia,PRYVT,1,3.26
+2024-10-13,For No Reason,YAØ,1,3.24
+2024-10-13,Id,keshi,1,3.21
+2024-10-13,Smokin Out The Window,Bruno Mars,1,3.19
+2024-10-13,Say That You're Mine,JSO,1,3.18
+2024-10-13,Your Gentleman,CLAUDIA,1,3.12
+2024-10-13,i need you more (feat. Suyo),Sweet The Kid,1,3.06
+2024-10-13,Cà Phê,MIN,1,3.05
+2024-10-13,This Time,Jeff Bernat,1,3.05
+2024-10-13,playing tricks,thủy,1,3.03
+2024-10-13,hero,starfall,1,3.02
+2024-10-13,obsessed,thủy,1,3.01
+2024-10-13,Slowly,CLAUDIA,1,2.99
+2024-10-13,Opening Sequence,TOMORROW X TOGETHER,1,2.93
+2024-10-13,"Me, Myself & I",5 Seconds of Summer,1,2.91
+2024-10-13,dna,LANY,1,2.9
+2024-10-13,mad,eaJ,1,2.9
+2024-10-13,Top Tier,sunkis,1,2.87
+2024-10-13,ANGOSTURA,keshi,1,2.85
+2024-10-13,3 new words,lullaboy,1,2.83
+2024-10-13,IT'S YOU (feat. keshi),MAX,1,2.83
+2024-10-13,Oh My God!,CLAUDIA,1,2.8
+2024-10-13,Ric Flair Drip (with Metro Boomin),Offset,1,2.79
+2024-10-13,Stay A While,niko rain,1,2.79
+2024-10-13,what a feeling,Patrick Hizon,1,2.79
+2024-10-13,trust me,sunkis,1,2.77
+2024-10-13,MIDDLE OF THE NIGHT,MONSTA X,1,2.76
+2024-10-13,chances,thủy,1,2.76
+2024-10-13,cherry red,HNATA,1,2.73
+2024-10-13,honeymoon,brb.,1,2.72
+2024-10-13,Kiss Me Right,keshi,1,2.63
+2024-10-13,the cutest pair,Regina Song,1,2.62
+2024-10-13,cheeze,Sarah Kang,1,2.58
+2024-10-13,"darling, he lied",bixby,1,2.57
+2024-10-13,deja vu,starfall,1,2.55
+2024-10-13,Crazy,J.Tajor,1,2.52
+2024-10-13,VOICEMAIL,sunkis,1,2.47
+2024-10-13,Chemistry,Rangga Jones,1,2.46
+2024-10-13,LAST GOODBYE,sunkis,1,2.46
+2024-10-13,Like I Do (with sunkis),J.Tajor,1,2.45
+2024-10-13,trippin',thủy,1,2.4
+2024-10-13,Strawberries and Wine,Jaylon Ashaun,1,2.3
+2024-10-13,alright,raph,1,2.21
+2024-10-13,Caressing,J.Tajor,1,2.16
+2024-10-13,keep smiling,demxntia,1,2.16
+2024-10-13,summer,raph,1,2.14
+2024-10-13,HOPELESS,raph,1,2.11
+2024-10-13,spin you round,Rocco,1,2.1
+2024-10-13,Home,niko rain,1,2.09
+2024-10-13,50 proof,eaJ,1,1.97
+2024-10-13,Crash Course,Sam MacPherson,1,1.95
+2024-10-13,glide,Sweet The Kid,1,1.94
+2024-10-13,kiss me thru the phone,CLUB BOYBND,1,1.92
+2024-10-13,distance,bixby,1,1.86
+2024-10-13,Winterfall,DPR IAN,1,1.82
+2024-10-13,Look At Me!,XXXTENTACION,1,1.75
+2024-10-13,Forget About You (Intimate),Devin Kennedy,1,1.65
+2024-10-13,Like I Do,J.Tajor,1,1.6
+2024-10-13,la trains,eaJ,1,1.35
+2024-10-13,FAKE LOVE (Rocking Vibe Mix),BTS,1,1.04
+2024-10-13,golden hour - Ruel Remix,JVKE,1,0.91
+2024-10-13,So Beautiful,DPR IAN,1,0.77
+2024-10-13,Too Good To Be True,MVSE,1,0.58
+2024-10-13,Grenade,Bruno Mars,1,0.56
+2024-10-13,desire,bixby,1,0.49
+2024-10-13,That's What I Like,Bruno Mars,1,0.34
+2024-10-13,Afraid,DAY6,1,0.21
+2024-10-13,high school boy,Regina Song,1,0.2
+2024-10-13,Nightlight,ILLENIUM,1,0.16
+2024-10-13,Stay With Me (feat. Jeremy Zucker),ayokay,1,0.14
+2024-10-13,Good Things Fall Apart (with Jon Bellion),ILLENIUM,1,0.06
+2024-10-13,Angel Baby,Troye Sivan,1,0.03
+2024-10-13,I Like It,Stray Kids,1,0.03
+2024-10-13,Eternity (feat. Dayce Williams),NURKO,1,0.01
+2024-10-13,Lucky,Jason Mraz,1,0.01
+2024-10-13,Stuck with U (with Justin Bieber),Ariana Grande,1,0.01
+2024-10-13,When I'm With U,Tritonal,1,0.01
+2024-10-13,Good Parts,Justin Caruso,1,0.0
+2024-10-12,glide,Sweet The Kid,9,17.25
+2024-10-12,For No Reason,YAØ,3,9.17
+2024-10-12,ONLY,LeeHi,2,6.97
+2024-10-12,i need you more (feat. Suyo),Sweet The Kid,2,5.65
+2024-10-12,LAST GOODBYE,sunkis,2,4.53
+2024-10-12,mad,eaJ,2,2.03
+2024-10-12,what a feeling,Patrick Hizon,2,1.0
+2024-10-12,Toast,CLAUDIA,2,0.95
+2024-10-12,kiss me thru the phone,CLUB BOYBND,2,0.69
+2024-10-12,if it's not you,PRYVT,2,0.17
+2024-10-12,Good Things Fall Apart vs. Sad Songs (With Said The Sky feat. Annika Wells),ILLENIUM,1,5.91
+2024-10-12,i know you know,CHSKA,1,4.35
+2024-10-12,If The World Was Ending,NURKO,1,4.07
+2024-10-12,Worlds Away,Dabin,1,4.07
+2024-10-12,Strawberry Blossom,RINI,1,3.59
+2024-10-12,next door (feat. ASTN),Amelia Moore,1,3.38
+2024-10-12,take it slow,yedira,1,3.33
+2024-10-12,HITMYLINE,Concepcion,1,3.25
+2024-10-12,Last First Kiss,One Direction,1,3.24
+2024-10-12,Out of the Blue,RINI,1,3.18
+2024-10-12,A$$A$$IN,Beauty School Dropout,1,3.07
+2024-10-12,obsessed,thủy,1,3.04
+2024-10-12,Slowly,CLAUDIA,1,2.98
+2024-10-12,Let Me Let You Go - Japanese Version,ONE OK ROCK,1,2.94
+2024-10-12,3 new words,lullaboy,1,2.86
+2024-10-12,bad together,CLAUDIA,1,2.83
+2024-10-12,Top Tier,sunkis,1,2.8
+2024-10-12,ANGOSTURA,keshi,1,2.78
+2024-10-12,cherry red,HNATA,1,2.73
+2024-10-12,trust me,sunkis,1,2.69
+2024-10-12,VOICEMAIL,sunkis,1,2.41
+2024-10-12,hero,starfall,1,2.41
+2024-10-12,Like I Do (with sunkis),J.Tajor,1,2.39
+2024-10-12,summer,raph,1,2.13
+2024-10-12,i like red,Charlene Su,1,2.0
+2024-10-12,deja vu,starfall,1,1.9
+2024-10-12,alright,raph,1,1.67
+2024-10-12,ificouldbelikeu,raph,1,1.64
+2024-10-12,Say,keshi,1,1.58
+2024-10-12,In Every Disaster,sunkis,1,1.54
+2024-10-12,Kiss Me Right,keshi,1,1.42
+2024-10-12,here,Emily Vaughn,1,1.4
+2024-10-12,You Don't Know,Justin Park,1,1.03
+2024-10-12,"darling, he lied",bixby,1,0.87
+2024-10-12,keep smiling,demxntia,1,0.52
+2024-10-12,daisy.,wave to earth,1,0.5
+2024-10-12,Love,Keyshia Cole,1,0.37
+2024-10-12,the cutest pair,Regina Song,1,0.32
+2024-10-12,Like I Do,J.Tajor,1,0.29
+2024-10-12,Versace on the Floor,Bruno Mars,1,0.18
+2024-10-12,All Falls Down,William Black,1,0.12
+2024-10-12,Dream,keshi,1,0.12
+2024-10-12,desire,bixby,1,0.04
+2024-10-12,feel U luv Me,Knock2,1,0.01
+2024-10-11,Id,keshi,7,23.01
+2024-10-11,i need you more (feat. Suyo),Sweet The Kid,6,18.43
+2024-10-11,Last First Kiss,One Direction,5,16.96
+2024-10-11,Silverado For Sale,Morgan Wallen,4,14.99
+2024-10-11,next door (feat. ASTN),Amelia Moore,4,13.89
+2024-10-11,Soft Spot,keshi,4,13.61
+2024-10-11,HITMYLINE,Concepcion,4,13.38
+2024-10-11,Slowly,CLAUDIA,4,12.27
+2024-10-11,dna,LANY,4,11.83
+2024-10-11,ANGOSTURA,keshi,4,11.4
+2024-10-11,LAST GOODBYE,sunkis,4,9.87
+2024-10-11,Dried Flowers(English ver.),Yuuri,3,14.28
+2024-10-11,Whiskey Glasses,Morgan Wallen,3,11.72
+2024-10-11,Strawberry Blossom,RINI,3,11.03
+2024-10-11,Fallin' For You,Colbie Caillat,3,10.78
+2024-10-11,War,keshi,3,10.45
+2024-10-11,close with desires (feat. thuy),teo glacier,3,10.29
+2024-10-11,CRUSH (with ASTN & Bren Joy),sunkis,3,9.96
+2024-10-11,For No Reason,YAØ,3,9.76
+2024-10-11,Pure Water (with Migos),Mustard,3,9.62
+2024-10-11,Seven (feat. Latto) (Explicit Ver.),Jung Kook,3,9.18
+2024-10-11,Like That,keshi,3,9.01
+2024-10-11,castle in the sky,eaJ,3,8.81
+2024-10-11,Top Tier,sunkis,3,8.62
+2024-10-11,Senses,MICO,3,7.99
+2024-10-11,Like I Do (with sunkis),J.Tajor,3,7.49
+2024-10-11,sweat,Haiden Henderson,3,7.21
+2024-10-11,All For You,sunkis,3,7.08
+2024-10-11,i loved you,Beauty School Dropout,3,5.84
+2024-10-11,i know you know,CHSKA,2,8.81
+2024-10-11,Versace on the Floor,Bruno Mars,2,8.71
+2024-10-11,Black Ice,Subtronics,2,8.67
+2024-10-11,Love,Keyshia Cole,2,8.51
+2024-10-11,Move On!,Hikarinonakani,2,8.23
+2024-10-11,ONLY,LeeHi,2,8.03
+2024-10-11,if it's not you,PRYVT,2,7.54
+2024-10-11,Tip Toe,HYBS,2,7.49
+2024-10-11,10 Freaky Girls (with 21 Savage),Metro Boomin,2,6.94
+2024-10-11,One Thing At A Time,Morgan Wallen,2,6.9
+2024-10-11,Chasin' You,Morgan Wallen,2,6.85
+2024-10-11,3D (feat. Jack Harlow),Jung Kook,2,6.73
+2024-10-11,All Falls Down,William Black,2,6.61
+2024-10-11,Out of the Blue,RINI,2,6.59
+2024-10-11,blue salvia,PRYVT,2,6.58
+2024-10-11,Cà Phê,MIN,2,6.35
+2024-10-11,hero,starfall,2,6.14
+2024-10-11,NVMD,Denise Julia,2,6.04
+2024-10-11,Night,keshi,2,6.0
+2024-10-11,mad,eaJ,2,5.92
+2024-10-11,3 new words,lullaboy,2,5.81
+2024-10-11,Miss You,AJ Mitchell,2,5.63
+2024-10-11,MIDDLE OF THE NIGHT,MONSTA X,2,5.54
+2024-10-11,Temporary Love,Keenan Te,2,5.44
+2024-10-11,fingers crossed,elijah woods,2,5.44
+2024-10-11,WITHOUT YOU,The Kid LAROI,2,5.38
+2024-10-11,Idontwannaknowyou!,MICO,2,5.36
+2024-10-11,the cutest pair,Regina Song,2,5.28
+2024-10-11,Toast,CLAUDIA,2,5.14
+2024-10-11,I Like It,Stray Kids,2,4.95
+2024-10-11,Requiem,keshi,2,4.82
+2024-10-11,Be So Cruel,ASTN,2,4.42
+2024-10-11,keep smiling,demxntia,2,4.4
+2024-10-11,kiss me thru the phone,CLUB BOYBND,2,3.92
+2024-10-11,Good Things Fall Apart vs. Sad Songs (With Said The Sky feat. Annika Wells),ILLENIUM,1,6.1
+2024-10-11,Moments,Micah Edwards,1,4.88
+2024-10-11,The Simple Things,Michael Carreon,1,4.39
+2024-10-11,When I'm With U,Tritonal,1,4.28
+2024-10-11,Die With A Smile,Lady Gaga,1,4.19
+2024-10-11,Faith,NURKO,1,4.18
+2024-10-11,Worlds Away,Dabin,1,4.17
+2024-10-11,Starbright,Dabin,1,4.05
+2024-10-11,Ai Đưa Em Về,TIA,1,3.89
+2024-10-11,Glimpse of Us,Joji,1,3.89
+2024-10-11,You,Regard,1,3.89
+2024-10-11,Mean It,Lauv,1,3.88
+2024-10-11,Love Talk - English Version,WayV,1,3.87
+2024-10-11,cool with it,brb.,1,3.86
+2024-10-11,May I Ask,Luke Chiang,1,3.84
+2024-10-11,Eternity (feat. Dayce Williams),NURKO,1,3.83
+2024-10-11,All That I Know,ZUHAIR,1,3.82
+2024-10-11,Stuck with U (with Justin Bieber),Ariana Grande,1,3.81
+2024-10-11,Cry Out,ONE OK ROCK,1,3.8
+2024-10-11,24K Magic,Bruno Mars,1,3.77
+2024-10-11,After You (feat. Calle Lehmann),Gryffin,1,3.74
+2024-10-11,Erase You,Excision,1,3.73
+2024-10-11,Calico,DPR IAN,1,3.71
+2024-10-11,Grenade,Bruno Mars,1,3.7
+2024-10-11,Angel Baby,Troye Sivan,1,3.68
+2024-10-11,Just the Way You Are,Bruno Mars,1,3.68
+2024-10-11,A-frame,Jeremy Zucker,1,3.61
+2024-10-11,Good Things Fall Apart (with Jon Bellion),ILLENIUM,1,3.61
+2024-10-11,Winterfall,DPR IAN,1,3.61
+2024-10-11,Phases,PRETTYMUCH,1,3.6
+2024-10-11,Summer Tights,DPR LIVE,1,3.58
+2024-10-11,What About,Blaxian,1,3.57
+2024-10-11,Afraid,DAY6,1,3.55
+2024-10-11,LIMBO,keshi,1,3.55
+2024-10-11,7 Summers,Morgan Wallen,1,3.51
+2024-10-11,Angel 2 Me,McKay,1,3.5
+2024-10-11,Attention,Charlie Puth,1,3.48
+2024-10-11,golden hour - Ruel Remix,JVKE,1,3.48
+2024-10-11,Easier - Live From The Vault,5 Seconds of Summer,1,3.45
+2024-10-11,Love Ain't Changin (ETERNALDUALS Remix),GhostDragon,1,3.45
+2024-10-11,2 soon,keshi,1,3.44
+2024-10-11,Dream,keshi,1,3.43
+2024-10-11,Time of Our Life,DAY6,1,3.43
+2024-10-11,WARNING!,DAY6,1,3.43
+2024-10-11,TOUCH,keshi,1,3.42
+2024-10-11,Smells Like Me,Charlie Puth,1,3.4
+2024-10-11,How Can I Say,DAY6,1,3.36
+2024-10-11,take it slow,yedira,1,3.36
+2024-10-11,Memories,ONE OK ROCK,1,3.34
+2024-10-11,They Don't Know About Us,One Direction,1,3.34
+2024-10-11,Smokin Out The Window,Bruno Mars,1,3.29
+2024-10-11,trust (feat. RINI),thủy,1,3.29
+2024-10-11,Temporary Love,sunkis,1,3.28
+2024-10-11,Clues,Ashley Alisha,1,3.26
+2024-10-11,Cheese & Wine,DPR LIVE,1,3.23
+2024-10-11,INVITATION (Feat. Gaeko),JUNNY,1,3.19
+2024-10-11,Ballroom Extravaganza,DPR IAN,1,3.17
+2024-10-11,Merry Go,DPR IAN,1,3.17
+2024-10-11,drunk text,Henry Moodie,1,3.12
+2024-10-11,DNA.,Kendrick Lamar,1,3.1
+2024-10-11,obsessed,thủy,1,3.08
+2024-10-11,playing tricks,thủy,1,3.07
+2024-10-11,Good Parts,Justin Caruso,1,3.05
+2024-10-11,Skyline,Khalid,1,3.05
+2024-10-11,Mood,DPR IAN,1,3.04
+2024-10-11,Let Me Let You Go,ONE OK ROCK,1,3.0
+2024-10-11,Lovers On The Moon,AJ Mitchell,1,2.98
+2024-10-11,"Me, Myself & I",5 Seconds of Summer,1,2.96
+2024-10-11,Why Don't We Go There,One Direction,1,2.91
+2024-10-11,Ric Flair Drip (with Metro Boomin),Offset,1,2.88
+2024-10-11,IT'S YOU (feat. keshi),MAX,1,2.86
+2024-10-11,trust me,sunkis,1,2.81
+2024-10-11,BUBBLY,Ethan Low,1,2.79
+2024-10-11,Stay A While,niko rain,1,2.79
+2024-10-11,Youuu,Milky Day,1,2.77
+2024-10-11,B.Y.S.,keshi,1,2.75
+2024-10-11,summer,keshi,1,2.75
+2024-10-11,cherry red,HNATA,1,2.74
+2024-10-11,4ever,sunkis,1,2.73
+2024-10-11,daisy.,wave to earth,1,2.68
+2024-10-11,Mayflowers,Boy In Space,1,2.66
+2024-10-11,cheeze,Sarah Kang,1,2.65
+2024-10-11,Kiss Me Right,keshi,1,2.63
+2024-10-11,10 Things I Hate About You,Leah Kate,1,2.62
+2024-10-11,Settle 4 Less,CLAUDIA,1,2.6
+2024-10-11,Lie To Me - Acoustic,5 Seconds of Summer,1,2.59
+2024-10-11,VOICEMAIL,sunkis,1,2.55
+2024-10-11,Crazy,J.Tajor,1,2.54
+2024-10-11,camellia,slchld,1,2.52
+2024-10-11,Like I Do,J.Tajor,1,2.49
+2024-10-11,Together,Joseph Tilley,1,2.49
+2024-10-11,Poetry,Devin Kennedy,1,2.41
+2024-10-11,Comin' Through,Hojean,1,2.17
+2024-10-11,ificouldbelikeu,raph,1,2.16
+2024-10-11,alright,raph,1,2.14
+2024-10-11,distance,bixby,1,1.88
+2024-10-11,Forget About You (Intimate),Devin Kennedy,1,1.68
+2024-10-11,madly,Emily Vaughn,1,1.67
 2024-10-10,Understand,MELOH,9,24.02
-2024-10-09,i need you more (feat. Suyo),Sweet The Kid,8,24.57
 2024-10-10,For No Reason,YAØ,5,16.26
 2024-10-10,i loved you,Beauty School Dropout,5,9.74
+2024-10-10,Strawberry Blossom,RINI,3,11.03
+2024-10-10,if this ain't love,teo glacier,3,10.82
+2024-10-10,next door (feat. ASTN),Amelia Moore,3,10.42
+2024-10-10,i need you more (feat. Suyo),Sweet The Kid,3,9.21
+2024-10-10,Like That,keshi,3,9.01
 2024-10-10,3 new words,lullaboy,3,8.71
+2024-10-10,trust me,sunkis,3,8.45
+2024-10-10,SABOTAGE,hyejin,3,7.5
+2024-10-10,Like I Do (with sunkis),J.Tajor,3,7.49
+2024-10-10,Hikari,Hikarinonakani,2,9.48
+2024-10-10,i know you know,CHSKA,2,8.81
+2024-10-10,Move On!,Hikarinonakani,2,8.23
+2024-10-10,Never Be the Same,Camila Cabello,2,7.57
+2024-10-10,daisy.,wave to earth,2,7.28
+2024-10-10,Good Things Fall Apart (with Jon Bellion),ILLENIUM,2,7.22
+2024-10-10,take it slow,yedira,2,6.87
+2024-10-10,Soft Spot,keshi,2,6.81
+2024-10-10,HITMYLINE,Concepcion,2,6.69
+2024-10-10,Temporary Love,sunkis,2,6.55
+2024-10-10,Bubbly,Colbie Caillat,2,6.54
+2024-10-10,Obvious,Jesse Barrera,2,6.2
+2024-10-10,Night,keshi,2,6.0
+2024-10-10,Top Tier,sunkis,2,5.75
+2024-10-10,ANGOSTURA,keshi,2,5.7
+2024-10-10,The Worst Part,CLAUDIA,2,5.53
+2024-10-10,Crazy,J.Tajor,2,5.14
+2024-10-10,Love on the Weekend,Aria Ohlsson,2,5.11
+2024-10-10,VOICEMAIL,sunkis,2,5.11
+2024-10-10,kiss me thru the phone,CLUB BOYBND,2,3.92
+2024-10-10,In Every Disaster,sunkis,2,3.24
+2024-10-10,Oceans & Engines,NIKI,1,5.6
+2024-10-10,Too Good to Say Goodbye,Bruno Mars,1,4.7
+2024-10-10,My Favourite Muse,ZUHAIR,1,4.36
+2024-10-10,I Never Loved You,Halsey,1,4.16
+2024-10-10,Lonely is the Muse,Halsey,1,4.03
+2024-10-10,Miracle,RINI,1,3.91
+2024-10-10,Glimpse of Us,Joji,1,3.89
+2024-10-10,Mean It,Lauv,1,3.88
+2024-10-10,All That I Know,ZUHAIR,1,3.82
+2024-10-10,24K Magic,Bruno Mars,1,3.77
+2024-10-10,What About,Blaxian,1,3.57
+2024-10-10,Forgot About Us,Keenan Te,1,3.56
+2024-10-10,Dream,keshi,1,3.5
+2024-10-10,War,keshi,1,3.48
+2024-10-10,That's What I Like,Bruno Mars,1,3.44
+2024-10-10,close with desires (feat. thuy),teo glacier,1,3.43
+2024-10-10,TOUCH,keshi,1,3.42
+2024-10-10,Last First Kiss,One Direction,1,3.39
+2024-10-10,3D (feat. Jack Harlow),Jung Kook,1,3.36
+2024-10-10,My Heart It Beats for You,grentperez,1,3.35
+2024-10-10,Dope Lovers,DPR IAN,1,3.34
+2024-10-10,CRUSH (with ASTN & Bren Joy),sunkis,1,3.32
+2024-10-10,Ego,Halsey,1,3.31
+2024-10-10,Lucky,Halsey,1,3.31
+2024-10-10,Dancing With Your Ghost,Sasha Alex Sloan,1,3.3
+2024-10-10,Ghost Of You,5 Seconds of Summer,1,3.29
+2024-10-10,Out of the Blue,RINI,1,3.29
+2024-10-10,blue salvia,PRYVT,1,3.29
+2024-10-10,The End,Halsey,1,3.28
+2024-10-10,happy endings do exist,PRYVT,1,3.28
+2024-10-10,anything 4 u,LANY,1,3.24
+2024-10-10,"tell me, will we survive?",PRYVT,1,3.24
+2024-10-10,INVITATION (Feat. Gaeko),JUNNY,1,3.19
+2024-10-10,She's Not Afraid,One Direction,1,3.18
+2024-10-10,Constant,Jesse Barrera,1,3.17
+2024-10-10,Let Me Know,Jimmy Brown,1,3.14
+2024-10-10,drunk text,Henry Moodie,1,3.12
+2024-10-10,universe,thủy,1,3.11
+2024-10-10,This Time,Jeff Bernat,1,3.1
+2024-10-10,obsessed,thủy,1,3.09
+2024-10-10,hero,starfall,1,3.07
+2024-10-10,playing tricks,thủy,1,3.07
+2024-10-10,Multiply,WOODZ,1,3.03
+2024-10-10,Ride,HYBS,1,3.03
+2024-10-10,wyd?,Larissa Lambert,1,3.02
+2024-10-10,like you said you would,Roman Kayz,1,3.01
+2024-10-10,dna,LANY,1,2.96
+2024-10-10,mad,eaJ,1,2.96
+2024-10-10,castle in the sky,eaJ,1,2.94
+2024-10-10,111,thủy,1,2.91
+2024-10-10,Maybe?,RADi,1,2.9
+2024-10-10,IT'S YOU (feat. keshi),MAX,1,2.89
+2024-10-10,Call Me,Rangga Jones,1,2.88
+2024-10-10,Baby Blue,Rocco,1,2.85
+2024-10-10,Stay A While,niko rain,1,2.81
+2024-10-10,up to me,LANY,1,2.8
+2024-10-10,"Love, Again",CLAUDIA,1,2.79
+2024-10-10,chances,thủy,1,2.79
+2024-10-10,aftermath,vaultboy,1,2.78
+2024-10-10,MIDDLE OF THE NIGHT,MONSTA X,1,2.77
+2024-10-10,Sweatshirt,Patrick Hizon,1,2.77
+2024-10-10,Cozy,Jeremy Zucker,1,2.76
+2024-10-10,summer,keshi,1,2.75
+2024-10-10,4ever,sunkis,1,2.73
+2024-10-10,Senses,MICO,1,2.66
+2024-10-10,cheeze,Sarah Kang,1,2.65
+2024-10-10,Summertime,Dru Chen,1,2.64
+2024-10-10,the cutest pair,Regina Song,1,2.64
+2024-10-10,No One,brb.,1,2.62
+2024-10-10,Settle 4 Less,CLAUDIA,1,2.6
+2024-10-10,your love,brb.,1,2.6
+2024-10-10,"I can't go home, anymore",PRYVT,1,2.53
+2024-10-10,Chemistry,Rangga Jones,1,2.5
+2024-10-10,Requiem,keshi,1,2.41
+2024-10-10,美,KIRE,1,2.4
+2024-10-10,All For You,sunkis,1,2.36
+2024-10-10,YOU,Rangga Jones,1,2.34
+2024-10-10,Everyday Feels Like Sunday,Jesse Barrera,1,2.33
+2024-10-10,Strawberries and Wine,Jaylon Ashaun,1,2.32
+2024-10-10,Last Minute,Sam MacPherson,1,2.22
+2024-10-10,summer,raph,1,2.21
+2024-10-10,keep smiling,demxntia,1,2.2
+2024-10-10,i like red,Charlene Su,1,2.04
+2024-10-10,Girl,Alexander 23,1,2.02
+2024-10-10,sweet,fcj,1,2.02
+2024-10-10,here,Emily Vaughn,1,1.98
+2024-10-10,la trains,eaJ,1,1.35
+2024-10-09,i need you more (feat. Suyo),Sweet The Kid,8,24.57
 2024-10-09,take it slow,yedira,3,10.3
 2024-10-09,blue salvia,PRYVT,3,9.88
 2024-10-09,obsessed,thủy,3,9.26
 2024-10-09,keep smiling,demxntia,3,6.6
-2024-10-10,Like I Do (with sunkis),J.Tajor,3,7.49
-2024-10-10,Like That,keshi,3,9.01
-2024-10-10,SABOTAGE,hyejin,3,7.5
-2024-10-10,Strawberry Blossom,RINI,3,11.03
-2024-10-10,i need you more (feat. Suyo),Sweet The Kid,3,9.21
-2024-10-10,if this ain't love,teo glacier,3,10.82
-2024-10-10,next door (feat. ASTN),Amelia Moore,3,10.42
-2024-10-10,trust me,sunkis,3,8.45
-2024-10-11,War,keshi,2,6.97
-2024-10-10,In Every Disaster,sunkis,2,3.24
-2024-10-10,Hikari,Hikarinonakani,2,9.48
+2024-10-09,euphoria,Kendrick Lamar,2,12.79
+2024-10-09,"Bitch, Don’t Kill My Vibe",Kendrick Lamar,2,10.36
+2024-10-09,KISS ME,DPR LIVE,2,9.27
+2024-10-09,redrum,21 Savage,2,9.02
+2024-10-09,Versace on the Floor,Bruno Mars,2,8.71
+2024-10-09,goosebumps,Travis Scott,2,8.13
+2024-10-09,ベテルギウス,Yuuri,2,7.69
 2024-10-09,ZEZE (feat. Travis Scott & Offset),Kodak Black,2,7.63
-2024-10-09,the cutest pair,Regina Song,2,5.28
-2024-10-09,Out of the Blue,RINI,2,6.59
+2024-10-09,Type Shit,Future,2,7.61
+2024-10-09,Tip Toe,HYBS,2,7.49
+2024-10-09,Ni**as In Paris,JAY-Z,2,7.31
+2024-10-09,daisy.,wave to earth,2,7.28
+2024-10-09,next door (feat. ASTN),Amelia Moore,2,6.94
+2024-10-09,2 soon,keshi,2,6.88
+2024-10-09,Standing Next to You,Jung Kook,2,6.87
+2024-10-09,Mask Off,Future,2,6.82
 2024-10-09,3D (feat. Jack Harlow),Jung Kook,2,6.73
-2024-10-09,FE!N (feat. Playboi Carti),Travis Scott,2,6.39
-2024-10-09,Pasadena,BABY GRAVY,2,5.26
+2024-10-09,Out of the Blue,RINI,2,6.59
 2024-10-09,ball w/o you,21 Savage,2,6.5
-2024-10-09,GIRLS,The Kid LAROI,2,5.1
+2024-10-09,FE!N (feat. Playboi Carti),Travis Scott,2,6.39
+2024-10-09,Rich Nigga Shit (feat. Young Thug),21 Savage,2,6.34
+2024-10-09,hot girl bummer,blackbear,2,6.28
+2024-10-09,Slowly,CLAUDIA,2,6.14
+2024-10-09,MANIAC,Stray Kids,2,6.09
+2024-10-09,Ric Flair Drip (with Metro Boomin),Offset,2,5.76
+2024-10-09,ANGOSTURA,keshi,2,5.7
 2024-10-09,trust me,sunkis,2,5.63
 2024-10-09,God’s Menu,Stray Kids,2,5.6
-2024-10-09,ベテルギウス,Yuuri,2,7.69
-2024-10-09,daisy.,wave to earth,2,7.28
-2024-10-09,美,KIRE,2,4.8
-2024-10-09,Ric Flair Drip (with Metro Boomin),Offset,2,5.76
-2024-10-09,Rich Nigga Shit (feat. Young Thug),21 Savage,2,6.34
-2024-10-10,Good Things Fall Apart (with Jon Bellion),ILLENIUM,2,7.22
-2024-10-09,euphoria,Kendrick Lamar,2,12.79
-2024-10-10,Bubbly,Colbie Caillat,2,6.54
-2024-10-09,I Like It,Stray Kids,2,4.95
-2024-10-09,goosebumps,Travis Scott,2,8.13
-2024-10-10,The Worst Part,CLAUDIA,2,5.53
-2024-10-09,Slowly,CLAUDIA,2,6.14
-2024-10-09,hot girl bummer,blackbear,2,6.28
-2024-10-09,KISS ME,DPR LIVE,2,9.27
-2024-10-09,Standing Next to You,Jung Kook,2,6.87
-2024-10-10,ANGOSTURA,keshi,2,5.7
-2024-10-10,Crazy,J.Tajor,2,5.14
-2024-10-09,Tip Toe,HYBS,2,7.49
-2024-10-10,HITMYLINE,Concepcion,2,6.69
-2024-10-09,next door (feat. ASTN),Amelia Moore,2,6.94
-2024-10-09,MANIAC,Stray Kids,2,6.09
-2024-10-10,Love on the Weekend,Aria Ohlsson,2,5.11
-2024-10-10,Move On!,Hikarinonakani,2,8.23
-2024-10-10,Never Be the Same,Camila Cabello,2,7.57
-2024-10-10,Night,keshi,2,6.0
-2024-10-10,Obvious,Jesse Barrera,2,6.2
-2024-10-09,2 soon,keshi,2,6.88
-2024-10-10,Soft Spot,keshi,2,6.81
-2024-10-11,Soft Spot,keshi,2,6.81
-2024-10-10,Temporary Love,sunkis,2,6.55
-2024-10-10,Top Tier,sunkis,2,5.75
 2024-10-09,MIDDLE OF THE NIGHT,MONSTA X,2,5.54
-2024-10-10,VOICEMAIL,sunkis,2,5.11
-2024-10-10,daisy.,wave to earth,2,7.28
-2024-10-10,i know you know,CHSKA,2,8.81
-2024-10-09,Mask Off,Future,2,6.82
-2024-10-09,Type Shit,Future,2,7.61
-2024-10-09,Versace on the Floor,Bruno Mars,2,8.71
-2024-10-10,kiss me thru the phone,CLUB BOYBND,2,3.92
-2024-10-09,redrum,21 Savage,2,9.02
-2024-10-10,take it slow,yedira,2,6.87
-2024-10-09,Ni**as In Paris,JAY-Z,2,7.31
-2024-10-11,All For You,sunkis,2,4.72
-2024-10-11,CRUSH (with ASTN & Bren Joy),sunkis,2,6.64
-2024-10-11,Fallin' For You,Colbie Caillat,2,7.18
-2024-10-11,For No Reason,YAØ,2,6.5
-2024-10-11,HITMYLINE,Concepcion,2,6.69
-2024-10-11,Id,keshi,2,6.57
-2024-10-11,LAST GOODBYE,sunkis,2,4.93
-2024-10-11,Last First Kiss,One Direction,2,6.78
-2024-10-11,Like That,keshi,2,6.0
-2024-10-11,i need you more (feat. Suyo),Sweet The Kid,2,6.14
-2024-10-11,next door (feat. ASTN),Amelia Moore,2,6.94
-2024-10-09,ANGOSTURA,keshi,2,5.7
-2024-10-09,"Bitch, Don’t Kill My Vibe",Kendrick Lamar,2,10.36
 2024-10-09,Despicable G's,BABY GRAVY,2,5.41
-2024-10-09,Like I Do,J.Tajor,1,2.49
-2024-10-09,Like That,Future,1,4.46
-2024-10-09,Little by Little,Tritonal,1,5.64
-2024-10-09,Look At Me!,XXXTENTACION,1,2.11
-2024-10-09,Lose My Breath (Feat. Charlie Puth),Stray Kids,1,2.78
-2024-10-09,Love Is Gone,SLANDER,1,4.27
-2024-10-09,MUST BE NICE,Ruel,1,2.93
-2024-10-09,Mean It,Lauv,1,3.88
-2024-10-09,Miracle,RINI,1,3.91
-2024-10-09,Miss You,AJ Mitchell,1,2.81
-2024-10-09,Night,keshi,1,3.0
-2024-10-09,Nightlight,ILLENIUM,1,3.71
-2024-10-09,Nightmare on Peachtree Street (feat. Freddie Dredd),BABY GRAVY,1,3.22
-2024-10-09,No Way Jose,BABY GRAVY,1,2.82
-2024-10-09,Oceans & Engines,NIKI,1,5.6
-2024-10-09,Potions,SLANDER,1,3.59
-2024-10-09,Pure Water (with Migos),Mustard,1,3.21
-2024-10-09,ROXANNE,Arizona Zervas,1,2.73
-2024-10-09,Remedy,William Black,1,3.67
-2024-10-09,Remember - Maazel Remix,WE ARE FURY,1,2.91
-2024-10-09,Requiem,keshi,1,2.41
-2024-10-09,SET YOURSELF ON FIRE,Ruel,1,2.86
-2024-10-09,Salvation,Excision,1,4.16
-2024-10-09,Senses,MICO,1,2.66
-2024-10-09,Seven (feat. Latto) (Explicit Ver.),Jung Kook,1,3.06
-2024-10-09,Slide (feat. Frank Ocean & Migos),Calvin Harris,1,3.85
-2024-10-09,Space Cadet (feat. Gunna),Metro Boomin,1,3.39
-2024-10-09,Strawberry Blossom,RINI,1,3.68
-2024-10-09,Super Smash Bros.,BABY GRAVY,1,2.56
-2024-10-09,Temporary Love,Keenan Te,1,2.72
-2024-10-09,The Middle,Zedd,1,3.08
-2024-10-09,The One That Was Meant for Me,Johnny Huynh,1,3.21
-2024-10-09,Too Good to Say Goodbye,Bruno Mars,1,4.7
-2024-10-09,Top Tier,sunkis,1,2.87
-2024-10-09,Two Truths And A Lie,ASTN,1,2.22
-2024-10-09,War,keshi,1,3.48
-2024-10-09,Without Me,Halsey,1,3.36
-2024-10-09,You Were Beautiful,DAY6,1,4.72
-2024-10-09,Your Side Of The Bed,Loote,1,3.29
-2024-10-09,a lot,21 Savage,1,4.81
-2024-10-09,blue,keshi,1,3.01
-2024-10-09,castle in the sky,eaJ,1,2.94
-2024-10-09,do me right,brb.,1,2.98
-2024-10-09,drivers license,Olivia Rodrigo,1,4.03
-2024-10-09,fingers crossed,elijah woods,1,2.72
-2024-10-09,hero,starfall,1,3.07
-2024-10-09,if it's not you,PRYVT,1,3.77
-2024-10-09,like you said you would,Roman Kayz,1,3.01
-2024-10-09,love me from a distance,Emily Vaughn,1,1.99
-2024-10-09,mad,eaJ,1,2.96
-2024-10-09,"tell me, will we survive?",PRYVT,1,3.24
-2024-10-10,111,thủy,1,2.91
-2024-10-10,24K Magic,Bruno Mars,1,3.77
-2024-10-10,3D (feat. Jack Harlow),Jung Kook,1,3.36
-2024-10-10,4ever,sunkis,1,2.73
-2024-10-10,All For You,sunkis,1,2.36
-2024-10-10,All That I Know,ZUHAIR,1,3.82
-2024-10-10,Baby Blue,Rocco,1,2.85
-2024-10-10,CRUSH (with ASTN & Bren Joy),sunkis,1,3.32
-2024-10-10,Call Me,Rangga Jones,1,2.88
-2024-10-10,Chemistry,Rangga Jones,1,2.5
-2024-10-10,Constant,Jesse Barrera,1,3.17
-2024-10-10,Cozy,Jeremy Zucker,1,2.76
-2024-10-10,Dancing With Your Ghost,Sasha Alex Sloan,1,3.3
-2024-10-10,Dope Lovers,DPR IAN,1,3.34
-2024-10-10,Dream,keshi,1,3.5
-2024-10-10,Ego,Halsey,1,3.31
-2024-10-10,Everyday Feels Like Sunday,Jesse Barrera,1,2.33
-2024-10-10,Forgot About Us,Keenan Te,1,3.56
-2024-10-10,Ghost Of You,5 Seconds of Summer,1,3.29
-2024-10-10,Girl,Alexander 23,1,2.02
-2024-10-10,Glimpse of Us,Joji,1,3.89
-2024-10-10,I Never Loved You,Halsey,1,4.16
-2024-10-10,"I can't go home, anymore",PRYVT,1,2.53
-2024-10-10,INVITATION (Feat. Gaeko),JUNNY,1,3.19
-2024-10-10,IT'S YOU (feat. keshi),MAX,1,2.89
-2024-10-09,Ice Attack,Future,1,3.32
-2024-10-10,Last First Kiss,One Direction,1,3.39
-2024-10-10,Last Minute,Sam MacPherson,1,2.22
-2024-10-10,Let Me Know,Jimmy Brown,1,3.14
-2024-10-11,dna,LANY,1,2.96
-2024-10-11,cool with it,brb.,1,3.86
-2024-10-10,Lonely is the Muse,Halsey,1,4.03
-2024-10-09,All You Need To Know (feat. Calle Lehmann),Gryffin,1,3.97
-2024-10-10,"Love, Again",CLAUDIA,1,2.79
-2024-10-10,Lucky,Halsey,1,3.31
-2024-10-10,MIDDLE OF THE NIGHT,MONSTA X,1,2.77
-2024-10-10,Maybe?,RADi,1,2.9
-2024-10-10,Mean It,Lauv,1,3.88
-2024-10-10,Miracle,RINI,1,3.91
-2024-10-11,trust (feat. RINI),thủy,1,3.29
-2024-10-10,Multiply,WOODZ,1,3.03
-2024-10-10,My Favourite Muse,ZUHAIR,1,4.36
-2024-10-10,My Heart It Beats for You,grentperez,1,3.35
-2024-10-09,10 Freaky Girls (with 21 Savage),Metro Boomin,1,3.47
-2024-10-11,Strawberry Blossom,RINI,1,3.68
-2024-10-10,No One,brb.,1,2.62
-2024-10-11,They Don't Know About Us,One Direction,1,3.34
-2024-10-10,Oceans & Engines,NIKI,1,5.6
-2024-10-10,Out of the Blue,RINI,1,3.29
-2024-10-10,Requiem,keshi,1,2.41
-2024-10-10,Ride,HYBS,1,3.03
-2024-10-11,Tip Toe,HYBS,1,3.75
-2024-10-10,Senses,MICO,1,2.66
-2024-10-10,Settle 4 Less,CLAUDIA,1,2.6
-2024-10-10,She's Not Afraid,One Direction,1,3.18
-2024-10-11,Toast,CLAUDIA,1,2.57
-2024-10-10,Stay A While,niko rain,1,2.81
-2024-10-10,Strawberries and Wine,Jaylon Ashaun,1,2.32
-2024-10-11,Together,Joseph Tilley,1,2.49
-2024-10-10,Summertime,Dru Chen,1,2.64
-2024-10-10,Sweatshirt,Patrick Hizon,1,2.77
-2024-10-10,TOUCH,keshi,1,3.42
-2024-10-11,Top Tier,sunkis,1,2.87
-2024-10-10,That's What I Like,Bruno Mars,1,3.44
-2024-10-10,The End,Halsey,1,3.28
-2024-10-09,summer,raph,1,2.21
-2024-10-10,This Time,Jeff Bernat,1,3.1
-2024-10-10,Too Good to Say Goodbye,Bruno Mars,1,4.7
-2024-10-11,Versace on the Floor,Bruno Mars,1,4.35
-2024-10-11,What About,Blaxian,1,3.57
-2024-10-11,Youuu,Milky Day,1,2.77
-2024-10-10,War,keshi,1,3.48
-2024-10-10,What About,Blaxian,1,3.57
-2024-10-10,YOU,Rangga Jones,1,2.34
-2024-10-10,aftermath,vaultboy,1,2.78
-2024-10-10,anything 4 u,LANY,1,3.24
-2024-10-10,blue salvia,PRYVT,1,3.29
-2024-10-10,castle in the sky,eaJ,1,2.94
-2024-10-10,chances,thủy,1,2.79
-2024-10-10,cheeze,Sarah Kang,1,2.65
-2024-10-10,close with desires (feat. thuy),teo glacier,1,3.43
-2024-10-11,blue salvia,PRYVT,1,3.29
-2024-10-10,dna,LANY,1,2.96
-2024-10-10,drunk text,Henry Moodie,1,3.12
-2024-10-10,happy endings do exist,PRYVT,1,3.28
-2024-10-10,here,Emily Vaughn,1,1.98
-2024-10-10,hero,starfall,1,3.07
-2024-10-11,camellia,slchld,1,2.52
-2024-10-10,i like red,Charlene Su,1,2.04
-2024-10-11,cheeze,Sarah Kang,1,2.65
-2024-10-11,close with desires (feat. thuy),teo glacier,1,3.43
-2024-10-09,Forgot About Us,Keenan Te,1,3.56
-2024-10-10,keep smiling,demxntia,1,2.2
-2024-10-09,GET IT,keshi,1,2.52
-2024-10-10,la trains,eaJ,1,1.35
-2024-10-10,like you said you would,Roman Kayz,1,3.01
-2024-10-10,mad,eaJ,1,2.96
-2024-10-09,Ghost Of You,5 Seconds of Summer,1,3.29
-2024-10-10,obsessed,thủy,1,3.09
-2024-10-10,playing tricks,thủy,1,3.07
-2024-10-10,summer,keshi,1,2.75
-2024-10-10,summer,raph,1,2.21
-2024-10-10,sweet,fcj,1,2.02
-2024-10-09,Glimpse of Us,Joji,1,3.89
-2024-10-10,"tell me, will we survive?",PRYVT,1,3.24
-2024-10-10,the cutest pair,Regina Song,1,2.64
-2024-10-09,Good Parts,Justin Caruso,1,3.05
-2024-10-10,universe,thủy,1,3.11
-2024-10-10,up to me,LANY,1,2.8
-2024-10-10,wyd?,Larissa Lambert,1,3.02
-2024-10-10,your love,brb.,1,2.6
-2024-10-10,美,KIRE,1,2.4
-2024-10-11,10 Freaky Girls (with 21 Savage),Metro Boomin,1,3.47
-2024-10-11,3 new words,lullaboy,1,2.9
-2024-10-11,ANGOSTURA,keshi,1,2.85
-2024-10-11,Ai Đưa Em Về,TIA,1,3.89
-2024-10-11,All Falls Down,William Black,1,3.31
+2024-10-09,the cutest pair,Regina Song,2,5.28
+2024-10-09,Pasadena,BABY GRAVY,2,5.26
+2024-10-09,GIRLS,The Kid LAROI,2,5.1
+2024-10-09,I Like It,Stray Kids,2,4.95
+2024-10-09,美,KIRE,2,4.8
 2024-10-09,Good Things Fall Apart vs. Sad Songs (With Said The Sky feat. Annika Wells),ILLENIUM,1,6.1
-2024-10-11,All That I Know,ZUHAIR,1,3.82
-2024-10-11,Angel 2 Me,McKay,1,3.5
-2024-10-11,Be So Cruel,ASTN,1,2.21
-2024-10-11,Black Ice,Subtronics,1,4.33
-2024-10-09,HOPELESS,raph,1,2.19
-2024-10-11,Chasin' You,Morgan Wallen,1,3.42
-2024-10-11,Clues,Ashley Alisha,1,3.26
-2024-10-11,Comin' Through,Hojean,1,2.17
-2024-10-11,Cà Phê,MIN,1,3.18
-2024-10-11,Dried Flowers(English ver.),Yuuri,1,4.76
-2024-10-09,Happy Now,Zedd,1,3.45
-2024-10-09,Honest,NOTD,1,3.03
-2024-10-11,Forget About You (Intimate),Devin Kennedy,1,1.68
-2024-10-11,Glimpse of Us,Joji,1,3.89
-2024-10-09,Hope It Hurts,Dabin,1,4.31
-2024-10-11,INVITATION (Feat. Gaeko),JUNNY,1,3.19
-2024-10-09,How Soon,ASTN,1,3.18
-2024-10-11,Idontwannaknowyou!,MICO,1,2.68
-2024-10-11,Just the Way You Are,Bruno Mars,1,3.68
-2024-10-09,I KNOW ?,Travis Scott,1,3.53
-2024-10-09,I Wanna Know (feat. Bea Miller),NOTD,1,3.3
-2024-10-11,Like I Do (with sunkis),J.Tajor,1,2.5
-2024-10-09,I'll Wait For You,Prince Woods,1,3.39
-2024-10-11,Love,Keyshia Cole,1,4.26
-2024-10-11,MIDDLE OF THE NIGHT,MONSTA X,1,2.77
-2024-10-11,May I Ask,Luke Chiang,1,3.84
-2024-10-11,Miss You,AJ Mitchell,1,2.81
-2024-10-11,Moments,Micah Edwards,1,4.88
-2024-10-11,Move On!,Hikarinonakani,1,4.12
-2024-10-11,NVMD,Denise Julia,1,3.02
-2024-10-11,Night,keshi,1,3.0
-2024-10-11,One Thing At A Time,Morgan Wallen,1,3.45
-2024-10-11,Out of the Blue,RINI,1,3.29
-2024-10-11,Poetry,Devin Kennedy,1,2.41
-2024-10-11,Senses,MICO,1,2.66
-2024-10-11,Settle 4 Less,CLAUDIA,1,2.6
-2024-10-11,Seven (feat. Latto) (Explicit Ver.),Jung Kook,1,3.06
-2024-10-11,Silverado For Sale,Morgan Wallen,1,3.75
-2024-10-11,Slowly,CLAUDIA,1,3.07
-2024-10-09,20 Min,Lil Uzi Vert,1,3.68
-2024-10-11,drunk text,Henry Moodie,1,3.12
-2024-10-11,fingers crossed,elijah woods,1,2.72
-2024-10-11,hero,starfall,1,3.07
-2024-10-11,i know you know,CHSKA,1,4.41
-2024-10-11,i loved you,Beauty School Dropout,1,1.95
-2024-10-09,Idontwannaknowyou!,MICO,1,2.68
-2024-10-11,if it's not you,PRYVT,1,3.77
-2024-10-11,keep smiling,demxntia,1,2.2
-2024-10-11,madly,Emily Vaughn,1,1.67
-2024-10-09,It Even Rains In LA,LANY,1,3.58
-2024-10-11,playing tricks,thủy,1,3.07
-2024-10-11,summer,keshi,1,2.75
-2024-10-11,sweat,Haiden Henderson,1,2.4
-2024-10-11,the cutest pair,Regina Song,1,2.64
-2024-10-09,LALALALA,Stray Kids,1,3.04
-2024-10-09,AM:PM - YU-KA Version,NOTD,1,3.05
-2024-10-09,"Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth and Muni Long)",JVKE,1,2.94
-2024-10-09,B.Y.S.,keshi,1,2.75
-2024-10-09,Backseat Freestyle,Kendrick Lamar,1,3.54
-2024-10-09,LET THE GRASS GROW,Ruel,1,2.93
-2024-10-09,Blueberry Faygo,Lil Mosey,1,2.71
-2024-10-09,Bodies,keshi,1,3.44
-2024-10-09,Breathe (feat. Colbie Caillat) (Taylor’s Version),Taylor Swift,1,4.39
-2024-10-09,CARNIVAL,¥$,1,4.41
-2024-10-09,COMFLEX,Stray Kids,1,2.87
-2024-10-09,Cinderella,Future,1,2.83
-2024-10-09,DNA.,Kendrick Lamar,1,3.1
-2024-10-09,Dancing With Your Ghost,Sasha Alex Sloan,1,3.3
-2024-10-09,Lights (Covex and Last Heroes Remix),Dabin,1,3.92
-2024-10-09,Don't Leave,Tom Frane,1,3.03
+2024-10-09,Little by Little,Tritonal,1,5.64
+2024-10-09,Oceans & Engines,NIKI,1,5.6
+2024-10-09,a lot,21 Savage,1,4.81
 2024-10-09,Dried Flowers(English ver.),Yuuri,1,4.76
+2024-10-09,You Were Beautiful,DAY6,1,4.72
+2024-10-09,Too Good to Say Goodbye,Bruno Mars,1,4.7
+2024-10-09,Like That,Future,1,4.46
+2024-10-09,CARNIVAL,¥$,1,4.41
+2024-10-09,Breathe (feat. Colbie Caillat) (Taylor’s Version),Taylor Swift,1,4.39
+2024-10-09,Hope It Hurts,Dabin,1,4.31
+2024-10-09,Love Is Gone,SLANDER,1,4.27
+2024-10-09,Salvation,Excision,1,4.16
+2024-10-09,drivers license,Olivia Rodrigo,1,4.03
+2024-10-09,All You Need To Know (feat. Calle Lehmann),Gryffin,1,3.97
+2024-10-09,Lights (Covex and Last Heroes Remix),Dabin,1,3.92
+2024-10-09,Miracle,RINI,1,3.91
+2024-10-09,Glimpse of Us,Joji,1,3.89
+2024-10-09,Mean It,Lauv,1,3.88
+2024-10-09,Slide (feat. Frank Ocean & Migos),Calvin Harris,1,3.85
+2024-10-09,if it's not you,PRYVT,1,3.77
+2024-10-09,Nightlight,ILLENIUM,1,3.71
+2024-10-09,20 Min,Lil Uzi Vert,1,3.68
+2024-10-09,Strawberry Blossom,RINI,1,3.68
+2024-10-09,Remedy,William Black,1,3.67
+2024-10-09,Potions,SLANDER,1,3.59
+2024-10-09,It Even Rains In LA,LANY,1,3.58
+2024-10-09,Forgot About Us,Keenan Te,1,3.56
+2024-10-09,Backseat Freestyle,Kendrick Lamar,1,3.54
+2024-10-09,I KNOW ?,Travis Scott,1,3.53
+2024-10-09,War,keshi,1,3.48
+2024-10-09,10 Freaky Girls (with 21 Savage),Metro Boomin,1,3.47
+2024-10-09,Happy Now,Zedd,1,3.45
+2024-10-09,Bodies,keshi,1,3.44
+2024-10-09,I'll Wait For You,Prince Woods,1,3.39
+2024-10-09,Space Cadet (feat. Gunna),Metro Boomin,1,3.39
+2024-10-09,Without Me,Halsey,1,3.36
+2024-10-09,Ice Attack,Future,1,3.32
+2024-10-09,Dancing With Your Ghost,Sasha Alex Sloan,1,3.3
+2024-10-09,I Wanna Know (feat. Bea Miller),NOTD,1,3.3
+2024-10-09,Ghost Of You,5 Seconds of Summer,1,3.29
+2024-10-09,Your Side Of The Bed,Loote,1,3.29
+2024-10-09,"tell me, will we survive?",PRYVT,1,3.24
+2024-10-09,Nightmare on Peachtree Street (feat. Freddie Dredd),BABY GRAVY,1,3.22
+2024-10-09,Pure Water (with Migos),Mustard,1,3.21
+2024-10-09,The One That Was Meant for Me,Johnny Huynh,1,3.21
+2024-10-09,How Soon,ASTN,1,3.18
+2024-10-09,DNA.,Kendrick Lamar,1,3.1
+2024-10-09,The Middle,Zedd,1,3.08
+2024-10-09,hero,starfall,1,3.07
+2024-10-09,Seven (feat. Latto) (Explicit Ver.),Jung Kook,1,3.06
+2024-10-09,AM:PM - YU-KA Version,NOTD,1,3.05
+2024-10-09,Good Parts,Justin Caruso,1,3.05
+2024-10-09,LALALALA,Stray Kids,1,3.04
+2024-10-09,Don't Leave,Tom Frane,1,3.03
+2024-10-09,Honest,NOTD,1,3.03
+2024-10-09,blue,keshi,1,3.01
+2024-10-09,like you said you would,Roman Kayz,1,3.01
+2024-10-09,Night,keshi,1,3.0
+2024-10-09,do me right,brb.,1,2.98
+2024-10-09,mad,eaJ,1,2.96
+2024-10-09,"Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth and Muni Long)",JVKE,1,2.94
+2024-10-09,castle in the sky,eaJ,1,2.94
+2024-10-09,LET THE GRASS GROW,Ruel,1,2.93
+2024-10-09,MUST BE NICE,Ruel,1,2.93
+2024-10-09,Remember - Maazel Remix,WE ARE FURY,1,2.91
+2024-10-09,COMFLEX,Stray Kids,1,2.87
+2024-10-09,Top Tier,sunkis,1,2.87
+2024-10-09,SET YOURSELF ON FIRE,Ruel,1,2.86
+2024-10-09,Cinderella,Future,1,2.83
+2024-10-09,No Way Jose,BABY GRAVY,1,2.82
+2024-10-09,Miss You,AJ Mitchell,1,2.81
+2024-10-09,Lose My Breath (Feat. Charlie Puth),Stray Kids,1,2.78
+2024-10-09,B.Y.S.,keshi,1,2.75
+2024-10-09,ROXANNE,Arizona Zervas,1,2.73
+2024-10-09,Temporary Love,Keenan Te,1,2.72
+2024-10-09,fingers crossed,elijah woods,1,2.72
+2024-10-09,Blueberry Faygo,Lil Mosey,1,2.71
+2024-10-09,Idontwannaknowyou!,MICO,1,2.68
+2024-10-09,Senses,MICO,1,2.66
+2024-10-09,Super Smash Bros.,BABY GRAVY,1,2.56
+2024-10-09,GET IT,keshi,1,2.52
+2024-10-09,Like I Do,J.Tajor,1,2.49
+2024-10-09,Requiem,keshi,1,2.41
+2024-10-09,Two Truths And A Lie,ASTN,1,2.22
+2024-10-09,summer,raph,1,2.21
+2024-10-09,HOPELESS,raph,1,2.19
+2024-10-09,Look At Me!,XXXTENTACION,1,2.11
+2024-10-09,love me from a distance,Emily Vaughn,1,1.99

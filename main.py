@@ -73,7 +73,7 @@ def monitor_playback():
             # Detect if the same song is being repeated (either naturally looped or restarted)
             else:
                 # Check if the song is near its end and has restarted
-                if progress_ms < last_progress and last_progress > (0.60 * duration_ms):  # If the song was close to the end (60%) and restarted
+                if progress_ms < last_progress and last_progress > (0.70 * duration_ms):  # If the song was close to the end (50%) and restarted
                     print(f"{song} by {artist} is being repeated")
                     print(duration_ms)
                     log_song_to_csv(song, artist, last_progress)
