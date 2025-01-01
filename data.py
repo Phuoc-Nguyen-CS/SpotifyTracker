@@ -15,7 +15,7 @@ def sort_by_day(grouped) -> None:
         print(top_5_per_day)
 
     # Save daily data to CSV
-    top_5_per_day.to_csv('data_day.csv', index=False, header=True, encoding='utf-8')
+    top_5_per_day.to_csv('data/data_day.csv', index=False, header=True, encoding='utf-8')
 
 def sort_by_week(grouped) -> None:
     # Group by 'year', 'week', 'song', 'artist' and aggregate counts and listening time per week
@@ -23,7 +23,8 @@ def sort_by_week(grouped) -> None:
                       .groupby(['year', 'week', 'song', 'artist'], as_index=False)
                       .agg(
                           count=('count', 'sum'),
-                          listen_time_minutes=('listen_time_minutes', 'sum').round(2)
+                        #   listen_time_minutes=('listen_time_minutes', 'sum').round(2)
+                          listen_time_minutes=('listen_time_minutes', 'sum')
                       )
                       .sort_values(by=['year', 'week', 'listen_time_minutes'], ascending=[False, False, False])
                      )
@@ -40,7 +41,7 @@ def sort_by_week(grouped) -> None:
         print(top_5_per_week)
 
     # Save weekly data to CSV
-    top_5_per_week.to_csv('data_week.csv', index=False, header=True, encoding='utf-8')
+    top_5_per_week.to_csv('data/data_week.csv', index=False, header=True, encoding='utf-8')
 
 def sort_by_month(grouped) -> None:
     # Group by 'year', 'month', 'song', 'artist' and aggregate counts and listening time per month
@@ -48,7 +49,8 @@ def sort_by_month(grouped) -> None:
                        .groupby(['year', 'month', 'song', 'artist'], as_index=False)
                        .agg(
                            count=('count', 'sum'),
-                           listen_time_minutes=('listen_time_minutes', 'sum').round(2)
+                           #   listen_time_minutes=('listen_time_minutes', 'sum').round(2)
+                          listen_time_minutes=('listen_time_minutes', 'sum')
                        )
                        .sort_values(by=['year', 'month', 'listen_time_minutes'], ascending=[False, False, False])
                       )
@@ -65,7 +67,7 @@ def sort_by_month(grouped) -> None:
         print(top_5_per_month)
 
     # Save monthly data to CSV
-    top_5_per_month.to_csv('data_month.csv', index=False, header=True, encoding='utf-8')
+    top_5_per_month.to_csv('data/data_month.csv', index=False, header=True, encoding='utf-8')
 
 if __name__ == '__main__':
     try:
